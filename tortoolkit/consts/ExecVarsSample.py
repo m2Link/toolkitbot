@@ -5,16 +5,16 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "126ea92e9fac9eb12847e35f7d041581"
+        API_ID = 6103415
+        BOT_TOKEN = "1916612352:AAHOYYirM0FfzD9C0gfYPTAG7CqJWies7aM"
+        BASE_URL_OF_BOT = "http://t.me/infinity_leach_bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
+        ALD_USR = [1501128718,-1001433805506]
         OWNER_ID = 0
         
         # Google Drive Index Link should include the base dir also See readme for more info
